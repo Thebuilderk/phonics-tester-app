@@ -1,8 +1,7 @@
-
 {
   "name": "phonics-tester-app",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "App.tsx",
   "dependencies": {
     "expo": "~57.0.24",
     "expo-status-bar": "~57.0.1",
